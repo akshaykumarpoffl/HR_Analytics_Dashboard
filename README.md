@@ -59,7 +59,7 @@ This repository includes the following files:
 
 Since the **Power BI (.pbix) file** does not contain the dataset, users can:
 
-1. **Download the cleaned dataset (********`cleaned_data.csv`************\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*********\*\*\*\*\*\*\*\*)**\*\*\*\*\*\*\*\*\*.csv)\*\*.
+1. **Download the cleaned dataset (************************************************************************`cleaned_data.csv`************************************************************************)**.
 2. **Open the ************************************************************************`HR_Analytics_Dashboard.pbix`************************************************************************ file in Power BI**.
 3. **Load the cleaned dataset into Power BI** to see the dashboard with full functionality.
 4. **Use the department slicer** to filter the dashboard by **Human Resources, Research & Development, and Sales** to analyze attrition within specific departments.
